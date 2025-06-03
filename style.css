@@ -106,7 +106,8 @@ body{
     border-width: 1.5px;
     border-color: #47adf1;
     color: white;
-    padding: 5px
+    padding: 5px;
+    font-weight: bold;
 }
 
 .q1 {
@@ -120,7 +121,8 @@ body{
     border-width: 1.5px;
     border-color: #9c72e4;
     color: white;
-    padding: 5px
+    padding: 5px;
+    font-weight: bold;
 }
 
 .recruiting {
@@ -134,7 +136,8 @@ body{
     border-width: 1.5px;
     border-color: #64c0a9;
     color: white;
-    padding: 5px
+    padding: 5px;
+    font-weight: bold;
 }
 
 .mobile {
@@ -148,7 +151,8 @@ body{
     border-width: 1.5px;
     border-color: #f29e33;
     color: white;
-    padding: 5px
+    padding: 5px;
+    font-weight: bold;
 }
 
 .website {
@@ -162,7 +166,8 @@ body{
     border-width: 1.5px;
     border-color: #d863a1;
     color: white;
-    padding: 5px
+    padding: 5px;
+    font-weight: bold;
 }
 .sales {
     font-size: 10px;
@@ -175,6 +180,7 @@ body{
     border-width: 1.5px;
     border-color: #b0c926;
     color: white;
-    padding: 5px
+    padding: 5px;
+    font-weight: bold;
 }
 /*Fine stile body*/
