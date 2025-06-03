@@ -25,6 +25,12 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+hr {
+    border-style: solid;
+    border-color: #f6f8f9;
+    margin-left: -52px;
+    margin-right: -52px;
+}
 .container {
     background-color: white;
     margin-left: 20%;
