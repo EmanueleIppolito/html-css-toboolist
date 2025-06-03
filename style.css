@@ -64,11 +64,9 @@ body{
     font-size: 10px;
     height: 25px;
     width: 100px;
-    border: solid;
-    border: thin;
+    border-style: solid;
+    border-style: thin;
     border-color: lightgray;
-    
-    ;
     color: lightgray;
 }
 
