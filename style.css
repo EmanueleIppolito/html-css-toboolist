@@ -68,7 +68,6 @@ body{
     border-width: 1.5px;
     border-color: lightgray;
     color: lightgray;
-    border: 
 }
 
 .fatto {
@@ -98,61 +97,84 @@ body{
 }
 
 .editorial {
-    font-size: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    vertical-align: middle;
     background-color: #47adf1;
-    padding-left: 5px;
-    padding-right: 5px;
-    border-radius: 38%;
-    border-top: 40px;
-    color: white
+    font-size: 9px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #47adf1;
+    color: white;
+    padding: 5px
 }
 
 .q1 {
     font-size: 10px;
     background-color: #9c72e4;
-    padding-left: 5px;
-    padding-right: 5px;
-    border-radius: 38%;
-    border-top: 40px;
-    color: white
+    margin-top: 10px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-size: 9px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #9c72e4;
+    color: white;
+    padding: 5px
 }
 
 .recruiting {
     font-size: 10px;
     background-color: #64c0a9;
-    padding-left: 5px;
-    padding-right: 5px;
-    border-radius: 38%;
-    border-top: 40px;
-    color: white
+    margin-top: 10px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-size: 9px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #64c0a9;
+    color: white;
+    padding: 5px
 }
 
 .mobile {
-    font-size: 10px;
     background-color: #f29e33;
-    padding-left: 5px;
-    padding-right: 5px;
-    border-radius: 38%;
-    border-top: 40px;
-    color: white
+    font-size: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-size: 9px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #f29e33;
+    color: white;
+    padding: 5px
 }
 
 .website {
     font-size: 10px;
     background-color: #d863a1;
-    padding-left: 5px;
-    padding-right: 5px;
-    border-radius: 38%;
-    border-top: 40px;
-    color: white
+    margin-top: 10px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-size: 9px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #d863a1;
+    color: white;
+    padding: 5px
 }
 .sales {
     font-size: 10px;
     background-color: #b0c926;
-    padding-left: 5px;
-    padding-right: 5px;
-    border-radius: 38%;
-    border-top: 40px;
-    color: white
+    margin-top: 10px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-size: 9px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #b0c926;
+    color: white;
+    padding: 5px
 }
 /*Fine stile body*/
