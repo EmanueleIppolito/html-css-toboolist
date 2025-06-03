@@ -22,11 +22,13 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 body{
     background-color: #f6f8f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .container {
-    background-color: red;
-    margin-left: 50px;
+    background-color: blue;
+    margin-left: 20%;
+    margin-right: 20%;
     max-width: 600px;
     
     
@@ -46,5 +48,31 @@ display: block;
 #Add-Section {
     border-radius: 10%;
     margin-top: 10px;
+}
+
+.fatto {
+    background-color: white;
+    border-style: solid;
+    margin: 2px;
+    border-color: green;
+    border-radius: 50%;
+    color: green;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    border-width: 1px;
+}
+
+.da-fare {
+    background-color: white;
+    border-style: solid;
+    margin: 2px;
+    border-color: red;
+    border-radius: 50%;
+    color: red;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    border-width: 1px;
 }
 /*Fine stile body*/
